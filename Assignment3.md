@@ -262,3 +262,4 @@ curl ip_address
 ```
 This should output the html content that was entered into index.html earlier.
 
+That concludes the tutorial of configuring a fresh debian server with a new user and disabled root user. While also configuring nginx to serve a smaple website.
